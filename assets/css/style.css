@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 body {
 	background-color: white;
@@ -120,4 +121,110 @@ h3 {
 	padding-top: 25px;
 	position: relative;
 	height: 50px;
+=======
+
+body {
+	background-color: white;
+	padding-left: 270px;
+	padding-right: 270px;	
+}
+
+#wrapper {
+	background-image: url("cork-wallet.png");
+	width: 960px;
+	height: 650px;
+
+	
+}
+.header {
+	
+	background-color: #ffffff;
+	position: relative;
+	
+}
+
+.myname {
+	background-color: #4daaa5;
+	font-size: 25px;
+	float: left;
+	text-align: center;
+	width: 200px;
+	height: 75px;
+
+}
+.link {
+	color: #cccccc;
+	background-color: white;
+	float: left;
+	font-size: 15px;
+	height: 75px;
+	width: 960px;
+	text-align: center;
+	
+	
+}
+
+.about {
+	float: left;
+	padding-left: 700px;
+	
+}
+
+.portfolio {
+	float: left;
+	padding-left: 20px;
+	
+	
+}
+
+.contact {
+	float: left;
+	padding-left: 20px;
+	padding-right: 55px;	
+	
+}
+
+.about-me {
+	background-color: white;
+	font-size: 20px;
+	float: left;
+	padding-top: 30px;
+	width: 600px;
+	height: 500px;
+}
+
+.text {
+	float: left;
+	position: relative;
+}
+
+.images {
+
+	background-color: white;
+	width: 600px
+	height 400px;
+}
+
+.contact-me {
+	background-color: white;
+	width: 600px;
+	height: 600px;
+}
+.contact-icon {
+	background-color: white;
+	float: left;
+	padding-left: 20px;
+	position: relative;
+	width: 250px;
+
+}
+
+.footer {
+	background-color: #666666;
+	float: left;
+	position: relative;
+	width: 960px;
+
+	
+>>>>>>> b44c2a50adf177f8f35dad9ef7ce0da4d22a755b
 }
